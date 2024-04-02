@@ -11,7 +11,6 @@ function Person() {
   }, 1000);
 }
 
-
 const getCode = (function () {
   const apiCode = "0]Eal(eh&2";
 
