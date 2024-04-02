@@ -1,3 +1,7 @@
+/**
+ * @description defines a new object, `self`, which has an initial age of 0. The
+ * `setInterval` method sets a timer that increments `self.age` every 1000 milliseconds.
+ */
 function Person() {
   const self = this;
   self.age = 0;
